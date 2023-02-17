@@ -30,10 +30,10 @@
             "year" : "1 Rok"
         },
         "interval" : {
-            "_10m" : "10 min",
-            "hourly" : "Hourly",
-            "daily" : "Daily",
-            "monthly" : "Monthly"
+            "_10m" : "10 minut",
+            "hourly" : "Godzina",
+            "daily" : "Dzień",
+            "monthly" : "Miesiąc"
         }
     }
 }
